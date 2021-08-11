@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   titulo: string  = 'App Contador';
+  numero: number = 0;
 }
